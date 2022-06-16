@@ -51,12 +51,12 @@ p {
 
 .postcard-footer button {
 	background-color: grey;
-    border: 1px solid black;
+	border: 1px solid black;
 	padding: 3px;
 }
 
 .postcard-footer button:hover {
 	background-color: rgb(221, 217, 217);
-    border: 3px dashed black;
+	border: 3px dashed black;
 	padding: 3px;
 }
